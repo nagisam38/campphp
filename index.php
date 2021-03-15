@@ -1,6 +1,6 @@
 <?php
 
-echo "一日一善 \t 小さな優しさを広げてゆきましょう";
+echo "私の今日のチャレンジ";
 echo "<br>";
 echo "<br>";
 echo "<br>";
